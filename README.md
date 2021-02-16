@@ -11,3 +11,5 @@ This project outlines the basic steps that should be followed when converting a 
 (6) CRM Rollout Guide Section 4: Rollout (7) CRM Rollout Guide Section 5: Follow-Up
 
 The link to the trello Kanban Board is:  https://trello.com/b/LUqIlZ1Y/templates-salesforce
+
+Please note that this is maintained in Trelllo, but will be migrating to Clickup (https://clickup.com)
